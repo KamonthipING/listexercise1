@@ -2,6 +2,7 @@
 #include "list.h"
 using namespace std;
 
+//Destructor
 List::~List() {
 	for(Node *p; !isEmpty(); ) {
 		p=head->next;
