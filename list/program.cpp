@@ -6,9 +6,10 @@ void main()
 {
 	//Sample Code
 	List mylist;
-	mylist.pushToHead('k');
-	mylist.pushToHead('e');
+	mylist.pushToHead('i');
+	mylist.pushToHead('s');
 	mylist.pushToHead('n');
+	mylist.pushToHead('e');
 	mylist.print();
 
 	//TO DO! Write a program that tests your list library - the code should take characters, push them onto a list, 
