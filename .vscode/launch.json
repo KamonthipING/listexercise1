@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/kamonthip/Desktop/listexercise1-1/list",
+      "program": "/Users/kamonthip/Desktop/listexercise1-1/list/build/Debug/outDebug"
+    }
+  ]
+}
